@@ -1,0 +1,31 @@
+@keyframes shake {
+    0% {
+      transform: translateX(0);
+    }
+    25% {
+      transform: translateX(-5px);
+    }
+    50% {
+      transform: translateX(5px);
+    }
+    75% {
+      transform: translateX(-5px);
+    }
+    100% {
+      transform: translateX(5px);
+    }
+  }
+  
+  .shake {
+    animation: shake 0.5s ease-in-out;
+  }
+  /* Define the initial state of the button */
+button.slide {
+    transform: translateX(0);
+    transition: transform 0.5s ease; /* Smooth transition */
+  }
+  
+  /* Define the state when the button slides */
+  button.slide.slide-active {
+    transform: translateX(200px); /* Adjust the value to control how much the button slides */
+  }

@@ -1,0 +1,21 @@
+id_machine,nom_machine,type_machine,capacité_par_jour,temps_unitaire_min,disponibilité,état,date_dernière_maintenance,prochaine_maintenance,emplacement,opérateur_attribué
+M001,Machine DX100,Découpe laser,975,5,Occupée,en service,2025-05-23,2025-06-28,Zone D,Brigitte Maréchal
+M002,HydroPress 5000,Presse hydraulique,337,13,Disponible,en service,2025-05-12,2025-06-06,Zone D,Nicolas Chauvin
+M003,CNC TurboCut,Tour CNC,275,9,Disponible,en service,2025-04-29,2025-05-15,Zone D,Nathalie Diaz-Leconte
+M004,FraisePro 300,Fraiseuse,523,10,Indisponible,en panne,2025-06-05,2025-07-08,Zone B,Camille Marion
+M005,AssemLine 200,Machine d’assemblage,513,1,Occupée,en panne,2025-06-14,2025-07-18,Zone A,Brigitte Maréchal
+M006,RoboArm X2,Robot industriel,354,13,Indisponible,en maintenance,2025-06-12,2025-09-06,Zone D,Brigitte Maréchal
+M007,SoudMaster 100,Machine à souder,170,10,Occupée,en service,2025-05-18,2025-06-04,Zone C,Nicolas Chauvin
+M008,PackIt Fast,Machine d’emballage,504,10,Disponible,en panne,2025-06-07,2025-08-21,Zone E,Léon Imbert
+M009,InjectoForm 700,Machine d’injection,946,1,Occupée,en maintenance,2025-04-21,2025-07-04,Zone C,Brigitte Maréchal
+M010,AutoDrill MX,Perceuse automatique,716,9,Indisponible,en service,2025-05-20,2025-06-29,Zone C,Henri Le Legros
+M011,Machine DX100,Découpe laser,939,1,Occupée,en maintenance,2025-05-09,2025-06-04,Zone E,Hortense Vincent
+M012,HydroPress 5000,Presse hydraulique,275,6,Disponible,en maintenance,2025-04-30,2025-06-29,Zone C,Hortense Vincent
+M013,CNC TurboCut,Tour CNC,159,5,Occupée,en panne,2025-05-19,2025-08-05,Zone B,Léon Imbert
+M014,FraisePro 300,Fraiseuse,785,11,Indisponible,en panne,2025-06-07,2025-07-01,Zone A,Michel Fournier Le Richard
+M015,AssemLine 200,Machine d’assemblage,308,8,Disponible,en maintenance,2025-05-08,2025-07-21,Zone C,Henri Le Legros
+M016,RoboArm X2,Robot industriel,923,14,Occupée,en panne,2025-06-01,2025-07-22,Zone D,Nicolas Chauvin
+M017,SoudMaster 100,Machine à souder,468,13,Disponible,en panne,2025-04-28,2025-06-21,Zone D,Brigitte Maréchal
+M018,PackIt Fast,Machine d’emballage,201,2,Occupée,en panne,2025-05-16,2025-06-20,Zone D,Camille Marion
+M019,InjectoForm 700,Machine d’injection,543,2,Indisponible,en service,2025-05-31,2025-08-22,Zone E,Nathalie Diaz-Leconte
+M020,AutoDrill MX,Perceuse automatique,647,1,Indisponible,en service,2025-05-16,2025-06-07,Zone D,Brigitte Maréchal

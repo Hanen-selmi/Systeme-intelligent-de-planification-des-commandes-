@@ -1,0 +1,51 @@
+id_production,id_commande,id_piece,quantite_produite,date_debut,date_fin,id_machine,id_employe,statut,defauts,temps_total_min,observations
+PRD0001,CMD9275,P019,287,2025-05-11,2025-05-11,M018,RH007,en cours,2,478,Connaître être lentement demain chiffre.
+PRD0002,CMD1477,P021,155,2025-05-08,2025-05-08,M018,RH002,terminé,1,426,Ville mouvement passer.
+PRD0003,CMD8849,P011,286,2025-04-20,2025-04-20,M003,RH007,en cours,1,430,Descendre comment ni vérité voiture.
+PRD0004,CMD5884,P024,165,2025-05-29,2025-05-29,M003,RH014,terminé,2,408,Sûr militaire article quant à défendre repas.
+PRD0005,CMD3757,P013,107,2025-04-24,2025-04-24,M014,RH008,terminé,0,251,Devoir défaut lettre seul feuille.
+PRD0006,CMD4931,P026,27,2025-05-25,2025-05-25,M007,RH006,annulé,0,291,Joindre éteindre fier bien fruit sept.
+PRD0007,CMD9884,P008,13,2025-04-24,2025-04-24,M014,RH007,terminé,0,187,Puissant asseoir mode réflexion maintenant subir finir placer.
+PRD0008,CMD6592,P002,127,2025-05-06,2025-05-06,M008,RH010,terminé,2,329,Éternel diriger train drame obéir rendre.
+PRD0009,CMD5954,P029,69,2025-05-18,2025-05-18,M016,RH005,terminé,1,198,Où recevoir apercevoir.
+PRD0010,CMD7028,P006,272,2025-05-25,2025-05-25,M012,RH010,terminé,0,317,Faute énorme homme pierre.
+PRD0011,CMD3955,P019,253,2025-05-06,2025-05-06,M002,RH006,terminé,0,359,Métier donner vérité vin pied plaire.
+PRD0012,CMD4362,P007,69,2025-04-27,2025-04-27,M001,RH018,terminé,0,323,Enfant mode même fixer dépasser habitude aussi.
+PRD0013,CMD2988,P005,127,2025-04-23,2025-04-23,M003,RH010,en cours,1,288,Moi tel rayon rapidement glace système juger.
+PRD0014,CMD6323,P009,24,2025-05-30,2025-05-30,M019,RH020,terminé,0,281,Commencer paupière suffire autorité.
+PRD0015,CMD6398,P030,63,2025-06-07,2025-06-07,M005,RH014,annulé,1,100,Affaire voyager vert rouge.
+PRD0016,CMD2208,P011,119,2025-05-20,2025-05-20,M012,RH004,terminé,0,224,Prison vieux aile brûler suite.
+PRD0017,CMD8100,P011,236,2025-06-04,2025-06-04,M017,RH012,terminé,2,305,Or presque air en lèvre.
+PRD0018,CMD2245,P008,104,2025-05-02,2025-05-02,M003,RH009,en cours,2,330,Encore rendre sorte contraire bataille ancien.
+PRD0019,CMD4016,P014,202,2025-04-21,2025-04-21,M012,RH008,en cours,2,240,Rose aucun mari jeune calme payer.
+PRD0020,CMD6668,P024,116,2025-05-07,2025-05-07,M009,RH007,terminé,0,387,Éternel colère droite pleurer.
+PRD0021,CMD9068,P008,76,2025-04-19,2025-04-19,M014,RH017,terminé,0,360,Franchir printemps amuser achever présent taille.
+PRD0022,CMD1538,P018,194,2025-05-12,2025-05-12,M017,RH014,terminé,0,247,Plonger lieu remercier désirer simplement.
+PRD0023,CMD9867,P006,25,2025-05-28,2025-05-28,M018,RH010,terminé,0,406,Souhaiter prière porter planche pénétrer.
+PRD0024,CMD6534,P030,152,2025-05-15,2025-05-15,M014,RH015,en cours,0,478,Corde voisin joie chien arriver cependant contenir homme.
+PRD0025,CMD3971,P022,263,2025-05-31,2025-05-31,M014,RH003,en cours,0,384,Jouer à santé étudier personne.
+PRD0026,CMD7004,P029,229,2025-04-20,2025-04-20,M014,RH012,terminé,0,369,Voilà depuis moyen grâce franc bien envoyer.
+PRD0027,CMD1275,P012,146,2025-05-18,2025-05-18,M020,RH006,terminé,2,218,Santé intérieur centre prière.
+PRD0028,CMD5335,P022,40,2025-06-03,2025-06-03,M006,RH004,en cours,2,70,Midi regard rester clef parfois.
+PRD0029,CMD3608,P028,94,2025-04-29,2025-04-29,M005,RH006,en cours,0,448,Qui malgré trop solitude en frais on.
+PRD0030,CMD2455,P029,204,2025-05-25,2025-05-25,M016,RH002,terminé,0,123,Tout foule changer mourir consentir renverser soi bras.
+PRD0031,CMD4244,P026,296,2025-05-10,2025-05-10,M016,RH014,annulé,0,324,Problème voir autant là fond.
+PRD0032,CMD5894,P007,164,2025-05-01,2025-05-01,M015,RH018,terminé,0,100,Taille rassurer condition avancer instinct jour.
+PRD0033,CMD7169,P012,182,2025-05-08,2025-05-08,M015,RH004,annulé,0,336,Expression marche classe animer geste deux voir.
+PRD0034,CMD6083,P005,265,2025-06-02,2025-06-02,M003,RH008,terminé,0,410,Anglais repas drame deviner oh bande trace retour.
+PRD0035,CMD5802,P026,206,2025-05-05,2025-05-05,M008,RH008,terminé,1,321,Préparer avis dernier puisque empêcher.
+PRD0036,CMD5667,P025,205,2025-04-28,2025-04-28,M002,RH009,terminé,0,178,Problème arbre cou certain très puissance.
+PRD0037,CMD6958,P028,128,2025-04-28,2025-04-28,M005,RH003,en cours,1,342,Tâche nécessaire bonheur.
+PRD0038,CMD5997,P008,158,2025-04-20,2025-04-20,M011,RH001,terminé,0,298,Témoin beau espace chien d'autres discours.
+PRD0039,CMD8386,P013,88,2025-05-31,2025-05-31,M002,RH009,terminé,2,396,Certes visible poète puis.
+PRD0040,CMD3831,P003,66,2025-06-04,2025-06-04,M008,RH019,terminé,0,381,Essuyer rond toujours plaindre jamais bureau faible.
+PRD0041,CMD9737,P023,157,2025-05-20,2025-05-20,M018,RH020,terminé,1,219,Chacun aimer quel gauche plein attaquer oublier.
+PRD0042,CMD6053,P002,230,2025-04-19,2025-04-19,M005,RH003,terminé,2,475,Large siècle matière moindre toile examiner désespoir.
+PRD0043,CMD7719,P029,22,2025-05-01,2025-05-01,M002,RH005,terminé,2,393,Doute foi fer temps inconnu lire paraître.
+PRD0044,CMD9554,P012,108,2025-06-07,2025-06-07,M005,RH020,terminé,0,279,Cacher précieux ou toit table gagner.
+PRD0045,CMD5732,P018,199,2025-04-22,2025-04-22,M012,RH006,terminé,1,102,Enfermer soi relever recommencer.
+PRD0046,CMD9890,P016,286,2025-05-03,2025-05-03,M020,RH008,terminé,1,266,Révolution lorsque fond détail vif.
+PRD0047,CMD5465,P025,193,2025-04-30,2025-04-30,M009,RH016,en cours,1,415,Surprendre rêve projet couleur douter oui sec.
+PRD0048,CMD1634,P002,202,2025-05-15,2025-05-15,M012,RH010,terminé,0,371,Apporter exemple offrir côte sourire saint vous pied.
+PRD0049,CMD4349,P025,46,2025-05-31,2025-05-31,M002,RH010,terminé,0,124,Pénétrer désespoir science été remettre cabinet.
+PRD0050,CMD1074,P021,152,2025-05-18,2025-05-18,M007,RH014,terminé,1,426,Dur doucement énergie aspect soleil forêt.

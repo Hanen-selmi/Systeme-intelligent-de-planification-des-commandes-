@@ -1,0 +1,13 @@
+Employé: Ahmed Ben Salah
+Compétences: Soudure, Pliage
+Disponibilité: 08:00 - 17:00
+Poste: Opérateur machine
+
+Employé: Salma Trabelsi
+Compétences: Assemblage, Test qualité
+Disponible: 09:00 - 18:00
+Expérience: 5 ans
+
+Employé: Youssef Gharbi
+Compétences: Découpe laser, Maintenance
+Statut: Absence prévue (16/06 - 17/06)

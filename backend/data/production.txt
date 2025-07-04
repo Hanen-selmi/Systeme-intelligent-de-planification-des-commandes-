@@ -1,0 +1,6 @@
+id_production	piece_id	quantite_produite	date_debut	date_fin	machine_responsable	temps_unitaire_min	etat
+PR001		P001		100			2025-06-18	2025-06-18	Presse 3000			1			En cours
+PR002		P002		50			2025-06-18	2025-06-19	Découpe Laser X2		2			Planifiée
+PR003		P003		70			2025-06-18	2025-06-18	Perceuse Automatique Z3	3			En maintenance
+PR004		P004		30			2025-06-19	2025-06-20	Presse 3000			1			Planifiée
+PR005		P005		200			2025-06-18	2025-06-19	Découpe Laser X2		2			En cours

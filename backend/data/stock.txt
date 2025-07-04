@@ -1,0 +1,11 @@
+piece_id	quantite_disponible	seuil_reappro	statut		date_maj	emplacement
+P001		150			50			Disponible	2025-06-17	Entrepôt A
+P002		0			30			Rupture de stock	2025-06-16	Entrepôt B
+P003		75			40			Disponible	2025-06-15	Entrepôt C
+P004		20			25			Stock faible	2025-06-17	Entrepôt A
+P005		300			100			Disponible	2025-06-14	Entrepôt D
+P006		10			15			Stock faible	2025-06-17	Entrepôt B
+P007		0			50			Rupture de stock	2025-06-13	Entrepôt C
+P008		200			60			Disponible	2025-06-17	Entrepôt A
+P009		90			40			Disponible	2025-06-12	Entrepôt D
+P010		5			20			Stock faible	2025-06-15	Entrepôt B

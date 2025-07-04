@@ -1,0 +1,185 @@
+Machine: Presse 3000
+Type: Presse
+Capacité: 2000 pièces/jour
+Temps unitaire de production: 1 minute
+Maintenance prévue: chaque lundi matin
+
+Machine: Découpe Laser X2
+Type: Découpe
+Capacité: 1500 pièces/jour
+Temps unitaire: 2 minutes
+Disponibilité: 24h/24
+
+Machine: Perceuse Automatique Z3
+Type: Perçage
+Capacité: 1000 pièces/jour
+Temps par pièce: 3 minutes
+Statut: En maintenance
+
+Machine: Presse 3001
+Type: Presse
+Capacité: 2100 pièces/jour
+Temps unitaire de production: 1.1 minute
+Maintenance prévue: chaque mardi matin
+
+Machine: Découpe Laser X3
+Type: Découpe
+Capacité: 1600 pièces/jour
+Temps unitaire: 2.1 minutes
+Disponibilité: 24h/24
+
+Machine: Perceuse Automatique Z4
+Type: Perçage
+Capacité: 1050 pièces/jour
+Temps par pièce: 3.2 minutes
+Statut: Disponible
+
+Machine: Presse 3002
+Type: Presse
+Capacité: 2200 pièces/jour
+Temps unitaire de production: 0.9 minute
+Maintenance prévue: chaque mercredi matin
+
+Machine: Découpe Laser X4
+Type: Découpe
+Capacité: 1550 pièces/jour
+Temps unitaire: 2.3 minutes
+Disponibilité: 24h/24
+
+Machine: Perceuse Automatique Z5
+Type: Perçage
+Capacité: 1100 pièces/jour
+Temps par pièce: 2.8 minutes
+Statut: Disponible
+
+Machine: Presse 3003
+Type: Presse
+Capacité: 2050 pièces/jour
+Temps unitaire de production: 1.2 minute
+Maintenance prévue: chaque jeudi matin
+
+Machine: Découpe Laser X5
+Type: Découpe
+Capacité: 1450 pièces/jour
+Temps unitaire: 2.2 minutes
+Disponibilité: 24h/24
+
+Machine: Perceuse Automatique Z6
+Type: Perçage
+Capacité: 980 pièces/jour
+Temps par pièce: 3.1 minutes
+Statut: Disponible
+
+Machine: Presse 3004
+Type: Presse
+Capacité: 2150 pièces/jour
+Temps unitaire de production: 1.05 minute
+Maintenance prévue: chaque vendredi matin
+
+Machine: Découpe Laser X6
+Type: Découpe
+Capacité: 1520 pièces/jour
+Temps unitaire: 2.0 minutes
+Disponibilité: 24h/24
+
+Machine: Perceuse Automatique Z7
+Type: Perçage
+Capacité: 1020 pièces/jour
+Temps par pièce: 2.9 minutes
+Statut: En maintenance
+
+Machine: Presse 3005
+Type: Presse
+Capacité: 2000 pièces/jour
+Temps unitaire de production: 1.15 minute
+Maintenance prévue: chaque samedi matin
+
+Machine: Découpe Laser X7
+Type: Découpe
+Capacité: 1500 pièces/jour
+Temps unitaire: 2.4 minutes
+Disponibilité: 24h/24
+
+Machine: Perceuse Automatique Z8
+Type: Perçage
+Capacité: 1000 pièces/jour
+Temps par pièce: 3.3 minutes
+Statut: Disponible
+
+Machine: Presse 3006
+Type: Presse
+Capacité: 2250 pièces/jour
+Temps unitaire de production: 0.95 minute
+Maintenance prévue: chaque dimanche matin
+
+Machine: Découpe Laser X8
+Type: Découpe
+Capacité: 1480 pièces/jour
+Temps unitaire: 2.1 minutes
+Disponibilité: 24h/24
+
+Machine: Perceuse Automatique Z9
+Type: Perçage
+Capacité: 1070 pièces/jour
+Temps par pièce: 3.0 minutes
+Statut: Disponible
+
+Machine: Presse 3007
+Type: Presse
+Capacité: 2100 pièces/jour
+Temps unitaire de production: 1.0 minute
+Maintenance prévue: chaque lundi après-midi
+
+Machine: Découpe Laser X9
+Type: Découpe
+Capacité: 1510 pièces/jour
+Temps unitaire: 2.2 minutes
+Disponibilité: 24h/24
+
+Machine: Perceuse Automatique Z10
+Type: Perçage
+Capacité: 1010 pièces/jour
+Temps par pièce: 2.7 minutes
+Statut: En maintenance
+
+Machine: Presse 3008
+Type: Presse
+Capacité: 2050 pièces/jour
+Temps unitaire de production: 1.1 minute
+Maintenance prévue: chaque mardi après-midi
+
+Machine: Découpe Laser X10
+Type: Découpe
+Capacité: 1490 pièces/jour
+Temps unitaire: 2.3 minutes
+Disponibilité: 24h/24
+
+Machine: Perceuse Automatique Z11
+Type: Perçage
+Capacité: 1030 pièces/jour
+Temps par pièce: 3.2 minutes
+Statut: Disponible
+
+Machine: Presse 3009
+Type: Presse
+Capacité: 2150 pièces/jour
+Temps unitaire de production: 1.05 minute
+Maintenance prévue: chaque mercredi après-midi
+
+Machine: Découpe Laser X11
+Type: Découpe
+Capacité: 1530 pièces/jour
+Temps unitaire: 2.0 minutes
+Disponibilité: 24h/24
+
+Machine: Perceuse Automatique Z12
+Type: Perçage
+Capacité: 1090 pièces/jour
+Temps par pièce: 3.1 minutes
+Statut: Disponible
+
+Machine: Presse 3010
+Type: Presse
+Capacité: 2200 pièces/jour
+Temps unitaire de production: 1.0 minute
+Maintenance prévue: chaque jeudi après-midi

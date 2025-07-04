@@ -1,0 +1,10 @@
+{
+    "aa3e552d-8f33-4a4b-bcc9-b5b13954d9f3": {
+        "stock": "Pièce: P015 - NON - Quantité demandée (60) supérieure au stock disponible (30).",
+        "production": "Réponse : NON\nJustification : La pièce P015 n'est pas répertoriée dans les productions, donc aucune information n'est disponible pour confirmer sa production dans les délais. Le stock disponible est insuffisant (30 contre 60 demandés) et la capacité/délai de production est inconnue.",
+        "machine": "Réponse : OUI  \nJustification : Les machines nécessaires (presses, découpe laser, perceuses) sont globalement disponibles avec des interruptions mineures pour maintenance planifiée. Aucun blocage majeur n'est signalé pour la production.",
+        "rh": "Réponse : OUI  \nJustification : Plusieurs employés compétents (techniciens machine, opérateurs, responsables atelier) sont disponibles à la date du 2025-06-29, permettant théoriquement de couvrir les besoins de production. Cependant, une vérification plus précise des compétences spécifiques pour la pièce P015 serait nécessaire pour confirmation définitive.",
+        "synthese": "Synthèse : Le stock disponible est insuffisant (30/60). La production n'a pas d'information sur la pièce P015. Les machines sont disponibles avec des interruptions mineures. Les RH sont disponibles mais nécessitent une vérification des compétences spécifiques.  \nCommande réalisable : NON  \nJustification : Stock insuffisant et production incertaine.",
+        "statut": "rejetée"
+    }
+}

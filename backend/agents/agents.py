@@ -62,7 +62,7 @@ agent_synthese = Agent(
     goal="Produire un rapport clair et synthétique des résultats des agents stock, production, machine, et RH",
     backstory="Analyste expérimenté en gestion de production",
     llm=llm,
-    tools=[],  # Pas besoin de RAG tools ici, juste du LLM
+    tools=[], 
     verbose=True,
     allow_delegation=False
 )

@@ -39,7 +39,7 @@ Frontend (React.js) <--> Backend API (FastAPI) <--> CrewAI Agents <--> Base de d
 
 ##  Structure du projet
 
-systeme-planification-commandes ├── backend/ │   ├── main.py │   ├── routes/ │   ├── agents/ │   ├── tasks/ │   └── utils/ ├── frontend/ │   ├── src/ │   └── public/ ├── database/ │   ├── schema.sql │   └── seed_data.sql ├── docs/ │  ├── README.md └── requirements.txt
+systeme-planification-commandes ├── backend/ │   ├── main.py │   ├── routes/ │   ├── agents/ │   ├── tasks/ │   └── utils/ ├── vite/ │   ├── src/ │   └── public/ ├── database/ │   ├── schema.sql │   └── seed_data.sql ├── docs/ │  ├── README.md └── requirements.txt
 
 ## Installation et exécution
 
@@ -57,6 +57,6 @@ uvicorn main:app --reload
 
 3. Lancer le frontend (React.js)
 
-cd frontend
+cd vite
 npm install
 npm start
